@@ -1,5 +1,5 @@
 function getContent () {
-    return 'test liba'
+    return 'test liba from main'
 }
 
 module.exports = {
