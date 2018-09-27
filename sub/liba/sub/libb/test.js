@@ -1,5 +1,5 @@
 function libTest () {
-    return '+++ libb test demo +++'
+    return '+++ libb test demo from main +++'
 }
 
 module.exports = {
