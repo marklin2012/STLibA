@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/marklin2012/STLibA#readme",
   "dependencies": {
-    "joi": "^13.6.0"
+    "joi": "^13.6.0",
+    "lodash": "^4.17.11"
   }
 }
